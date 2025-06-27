@@ -1,0 +1,7 @@
+[project]
+name = "CassaPeak Orchestrator"
+version = "0.1.0"
+description = "Service for orchestation of all the CassaPeak services"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
