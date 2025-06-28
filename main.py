@@ -33,7 +33,7 @@ def list_backups():
 
 
 def main():
-    print("CassaPeak Orchestrator - Backup Service")
+    print("Orchestrator - Backup Service")
     
     if len(os.sys.argv) > 1:
         command = os.sys.argv[1]
