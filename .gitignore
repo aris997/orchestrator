@@ -1,4 +1,7 @@
 # Folders
 .idea
+.venv
 
 # Files
+*.sqlite
+*test*
